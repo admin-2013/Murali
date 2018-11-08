@@ -1,0 +1,6 @@
+echo "no of command line arguments are $#"
+echo "file name is: $0"
+echo "first command line argument is : $1"
+echo "second command line argument is : $2"
+echo "third command line argument is : $3"
+echo "the command line arguments supplied by $* or $@"
